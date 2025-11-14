@@ -3,6 +3,7 @@
 <div align="center">
 <a href="https://github.com/Ayanami0730/deep_research_bench/blob/main/LICENSE"><img src="https://img.shields.io/badge/Code_License-MIT-blue" alt="license"></a>
 <a href="https://deepresearch-bench.github.io/"><img src="https://img.shields.io/badge/Website-DeepResearch-green" alt="website"></a>
+<a href="https://huggingface.co/spaces/muset-ai/DeepResearch-Bench-Leaderboard"><img alt="Leaderboard" src="https://img.shields.io/badge/🏆%20Leaderboard-yellow?color=FFD700"></a>
 <a href="https://huggingface.co/spaces/Ayanami0730/DeepResearch-Leaderboard"><img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?color=8A2BE2"></a>
 <a href="https://arxiv.org/abs/2506.11763" target="_blank"><img src=https://img.shields.io/badge/arXiv-b5212f.svg?logo=arxiv></a>
 <a href="https://agi-eval.cn/evaluation/detail?id=67"><img src="https://img.shields.io/badge/🤝%20AGI--Eval-purple?color=8569f6" alt="AGI-Eval"></a>
@@ -10,9 +11,9 @@
 
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
 
-![Deep Research Agents Comparison Results](pics/leaderboard_0803.png)
-
 # ✨ News
++ [14 Nov 2025] 🎉 **Major Leaderboard Update**: We are excited to announce two new top-performing systems on DeepResearch Bench! [CellCog.ai](https://www.cellcog.ai) now leads the leaderboard at **1st place**, and [Salesforce Enterprise Deep Research](https://github.com/SalesforceAIResearch/enterprise-deep-research) secures **2nd place**, both surpassing all previous benchmarks. These results showcase advances in deep research agent capabilities. Check out the full rankings and detailed comparisons on our [**Leaderboard**](https://huggingface.co/spaces/muset-ai/DeepResearch-Bench-Leaderboard).
+
 + [3 Aug 2025] 🚀 We reproduced and evaluated [LangChain-Open-Deep-Research](https://github.com/langchain-ai/open_deep_research) (with GPT-4.1 + Tavily) as the first open-source framework evaluated on DeepResearch Bench, achieving 6th place among all deep research agents. This evaluation was conducted in collaboration with LangChain partners. Additionally, we partnered with [Nvidia-AIQ-Research](https://github.com/NVIDIA-AI-Blueprints/aiq-research-assistant) to evaluate their deep research solution. Updated results with new leaderboard visualization are now available. All detailed rankings and raw data are synchronized on our [Hugging Face Leaderboard](https://huggingface.co/spaces/Ayanami0730/DeepResearch-Leaderboard). 
   
   **If you want to evaluate your deep research agent** Contact us at dumingxuan@mail.ustc.edu.cn to get official leaderboard ranking on DeepResearch Bench.
@@ -87,41 +88,7 @@ FACT evaluates **information retrieval and grounding capabilities** through:
 
 ### Main Results
 
-Our comprehensive evaluation reveals significant performance variations across different model architectures and approaches:
-
-| **Model** | **RACE Overall** | **RACE Comp.** | **RACE Depth** | **RACE Inst.** | **RACE Read.** | **FACT C. Acc.** | **FACT E. Cit.** |
-|-----------|------------------|----------------|----------------|----------------|----------------|------------------|------------------|
-| ***Deep Research Agent*** |
-| Gemini-2.5-Pro Deep Research | **48.92** | **48.45** | **48.30** | <u>49.29</u> | **49.77** | <u>78.30</u> | **165.34** |
-| OpenAI Deep Research | <u>46.45</u> | <u>46.46</u> | <u>43.73</u> | **49.39** | <u>47.22</u> | 75.01 | 39.79 |
-| Claude-Researcher | 45.00 | 45.34 | 42.79 | 47.58 | 44.66 | - | - |
-| Kimi-Researcher | 44.64 | 44.96 | 41.97 | 47.14 | 45.59 | - | - |
-| Doubao-DeepResearch | 44.34 | 44.84 | 40.56 | 47.95 | 44.69 | 52.86 | <u>52.62</u> |
-| Perplexity-Research | 40.46 | 39.10 | 35.65 | 46.11 | 43.08 | **82.63** | 31.20 |
-| Grok Deeper Search | 38.22 | 36.08 | 30.89 | 46.59 | 42.17 | 73.08 | 8.58 |
-| ***LLM with Search Tools*** |
-| Perplexity-Sonar-Reasoning-Pro | **37.76** | <u>34.96</u> | <u>31.65</u> | **44.93** | **42.42** | 45.19 | 9.39 |
-| Perplexity-Sonar-Reasoning | <u>37.75</u> | 34.73 | **32.59** | <u>44.42</u> | <u>42.39</u> | 52.58 | 13.37 |
-| Claude-3.7-Sonnet w/Search | 36.63 | **35.95** | 31.29 | 44.05 | 36.07 | 87.32 | **24.51** |
-| Perplexity-Sonar-Pro | 36.19 | 33.92 | 29.69 | 43.39 | 41.07 | 79.72 | <u>16.75</u> |
-| Gemini-2.5-Pro-Preview | 31.90 | 31.75 | 24.61 | 40.24 | 32.76 | - | - |
-| GPT-4o-Search-Preview | 30.74 | 27.81 | 20.44 | 41.01 | 37.60 | 86.63 | 5.05 |
-| Perplexity-Sonar | 30.64 | 27.14 | 21.62 | 40.70 | 37.46 | 76.41 | 10.68 |
-| GPT-4.1 w/Search | 29.31 | 25.59 | 18.42 | 40.63 | 36.49 | <u>89.85</u> | 4.27 |
-| Gemini-2.5-Flash-Preview | 29.19 | 28.97 | 21.62 | 37.80 | 29.97 | - | - |
-| GPT-4o-Mini-Search-Preview | 27.62 | 24.24 | 16.62 | 38.59 | 35.27 | 81.69 | 4.62 |
-| GPT-4.1-Mini w/Search | 26.62 | 22.86 | 15.39 | 38.18 | 34.49 | 84.54 | 4.10 |
-| Claude-3.5-Sonnet w/Search | 23.95 | 21.28 | 16.20 | 32.41 | 29.87 | **94.06** | 9.35 |
-
-**Key Findings:**
-- **Gemini-2.5-Pro Deep Research** achieves the highest overall performance (48.92) with exceptional depth and comprehensiveness, leading in all RACE metrics
-- **OpenAI Deep Research** and **Claude-Researcher** follow closely, securing second and third place respectively, demonstrating strong research capabilities
-- **Kimi-Researcher** and **Doubao-DeepResearch** also show competitive performance.
-- **Deep Research Agents** significantly outperform traditional LLMs with search tools across all evaluation dimensions.
-- **Citation accuracy** varies substantially across models, with Perplexity-Research achieving the highest accuracy among Deep Research Agents
-- **Effective citation count** shows Gemini-2.5-Pro leading with around 165 citations per task, demonstrating superior information gathering capabilities
-
-**Note on FACT Evaluation**: Due to differences between Jina AI's web scraping capabilities and internal scraping systems used by various companies, some links may fail to be scraped or return different content through Jina AI. Therefore, FACT evaluation results should be interpreted with caution and are provided for reference purposes only.
+**View Latest Leaderboard**: Visit our [**DeepResearch Bench Leaderboard**](https://huggingface.co/spaces/muset-ai/DeepResearch-Bench-Leaderboard) for real-time updated evaluation results, detailed comparative analysis, and raw data.
 
 ---
 

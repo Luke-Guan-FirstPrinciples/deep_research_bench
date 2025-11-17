@@ -14,7 +14,7 @@
 
 # ✨ News
 + [17 Nov 2025] 🚀 **New Achievements & Dataset Release**: 
-  - We are thrilled to announce that **[Thinkdepth.ai](https://thinkdepth.ai)** has achieved **1st place** on the RACE evaluation, showcasing exceptional performance in research report generation quality!
+  - We are thrilled to announce that **[Thinkdepth.ai](https://github.com/thinkdepthai/Deep_Research)** has achieved **1st place** on the RACE evaluation, showcasing exceptional performance in research report generation quality!
   - 🎯 **Human Annotation Dataset Released**: We have released our human-annotated RACE evaluation dataset on [Hugging Face](https://huggingface.co/datasets/muset-ai/DeepResearch-Bench-Dataset). This dataset provides valuable ground truth for **LLM-as-judge** research. We welcome researchers to leverage this data to explore and improve the alignment between LLM evaluations and human judgments.
 
 + [14 Nov 2025] 🎉 **Major Leaderboard Update**: We are excited to announce two new top-performing systems on DeepResearch Bench! [CellCog.ai](https://www.cellcog.ai) now leads the leaderboard at **1st place**, and [Salesforce Enterprise Deep Research](https://github.com/SalesforceAIResearch/enterprise-deep-research) secures **2nd place**, both surpassing all previous benchmarks. These results showcase advances in deep research agent capabilities. Check out the full rankings and detailed comparisons on our [**Leaderboard**](https://huggingface.co/spaces/muset-ai/DeepResearch-Bench-Leaderboard).

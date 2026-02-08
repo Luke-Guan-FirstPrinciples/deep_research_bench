@@ -24,6 +24,9 @@
     - [A-RAG](https://arxiv.org/abs/2602.03442): An agentic RAG framework that exposes hierarchical retrieval interfaces (keyword search, semantic search, chunk read) to the model for adaptive multi-granularity retrieval.
     - [FS-Researcher](https://arxiv.org/abs/2602.01566): A file-system-based dual-agent framework (Context Builder + Report Writer) that scales deep research beyond the context window via a persistent knowledge base.
 
+[6 Feb 2026] 🏆 **Leaderboard Update**: [Cellcog](https://www.cellcog.ai)'s new model has achieved **1st place**! Check out the full rankings on our [**Leaderboard**](https://huggingface.co/spaces/muset-ai/DeepResearch-Bench-Leaderboard).
+
+
 + [3 Feb 2026] 🎉 **Leaderboard Update**: [**Qianfan-DeepResearch Pro**](https://github.com/baidubce/qianfan-deepresearch-bench) and [**Qianfan-DeepResearch**](https://github.com/baidubce/qianfan-deepresearch-bench) have achieved **1st and 2nd place**! Check out the full rankings on our [**Leaderboard**](https://huggingface.co/spaces/muset-ai/DeepResearch-Bench-Leaderboard).
 
 + [22 Nov 2025] 🎉 **New Leaderboard Update**: 

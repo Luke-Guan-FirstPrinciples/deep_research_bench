@@ -13,6 +13,14 @@
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
 
 # ✨ News
++ [17 Feb 2026] 🏆 **Leaderboard Update**: [CellCog](https://www.cellcog.ai) has updated its scores and reclaimed **1st place** with an overall score of **54.65**! Congratulations to the CellCog team! Check out the full rankings on our [**Leaderboard**](https://huggingface.co/spaces/muset-ai/DeepResearch-Bench-Leaderboard).
+
++ [12 Feb 2026] 🎉 **New Models Added**: We welcome two new models to DeepResearch Bench:
+  - 🥇 [**Onyx Deep Research**](https://github.com/onyx-dot-app/onyx) — an open-source deep research agent (MIT license), achieves **1st place** with an overall score of **54.54**! Congratulations to the Onyx team!
+  - [**Dr. Tulu**](https://github.com/rlresearch/dr-tulu) — a new open-source deep research agent (Apache-2.0 license).
+  
+  Check out the updated rankings on our [**Leaderboard**](https://huggingface.co/spaces/muset-ai/DeepResearch-Bench-Leaderboard).
+
 + [6 Feb 2026] 🚀 **DeepResearch Bench II Release**: We have released **DeepResearch Bench II (DRB II)** ([homepage](https://agentresearchlab.org/benchmarks/deepresearch-bench-ii/index.html#home)｜[repo](https://github.com/imlrz/DeepResearch-Bench-II)｜[paper](https://arxiv.org/abs/2601.08536)). We welcome you to evaluate and exchange ideas. Note that DRB II, as a follow-up to DRB, has a different evaluation focus from DRB; **DRB will continue to be maintained and updated** after the release of DRB II. For more details, please refer to the [DRB II paper](https://arxiv.org/abs/2601.08536).
 
 + [6 Feb 2026] 📚 **New Papers from Our Lab**: We welcome you to check out the new papers from our lab ([Agent Research Lab](https://agentresearchlab.org/index.html)):

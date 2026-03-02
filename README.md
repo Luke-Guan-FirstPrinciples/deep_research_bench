@@ -13,6 +13,8 @@
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
 
 # ✨ News
++ [2 Mar 2026] 🎉 **New Model Added**: We welcome [**Bodhi Deep Research**](https://www.publicissapient.com/platforms/bodhi) — a proprietary deep research agent, achieving an overall score of **54.22**. Check out the updated rankings on our [**Leaderboard**](https://huggingface.co/spaces/muset-ai/DeepResearch-Bench-Leaderboard).
+
 + [28 Feb 2026] 🎉 **New Model Added**: We welcome [**UESTC-MBSE-RAAA-DeepResearch**](https://github.com/wee235929-cmyk/RequirementAgent), achieving an overall score of **46.13**. Check out the updated rankings on our [**Leaderboard**](https://huggingface.co/spaces/muset-ai/DeepResearch-Bench-Leaderboard).
 
 + [17 Feb 2026] 🏆 **Leaderboard Update**: [CellCog](https://www.cellcog.ai) has updated its scores and reclaimed **1st place** with an overall score of **54.65**! Congratulations to the CellCog team! Check out the full rankings on our [**Leaderboard**](https://huggingface.co/spaces/muset-ai/DeepResearch-Bench-Leaderboard).

@@ -13,11 +13,9 @@
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
 
 # ✨ News
-+ [6 Mar 2026] 🎉 **New Models Added**: We welcome two new models to DeepResearch Bench:
-  - 🥇 [**nvidia-aiq (Nemotron 3, GPT 5.2)**](https://github.com/NVIDIA-AI-Blueprints/aiq/tree/drb1) — an open-source deep research agent (Apache-2.0 license), achieves **1st place** with an overall score of **55.95**!
-  - [**Xiaoyi DeepResearch**](https://xiaoyi.huawei.com/chat/research) — a proprietary deep research agent, achieving an overall score of **55.13**.
-  
-  Check out the updated rankings on our [**Leaderboard**](https://huggingface.co/spaces/muset-ai/DeepResearch-Bench-Leaderboard).
++ [8 Mar 2026] 🎉 **New Model Added**: We welcome [**nvidia-aiq (Nemotron 3, GPT 5.2)**](https://github.com/NVIDIA-AI-Blueprints/aiq/tree/drb1) — an open-source deep research agent (Apache-2.0 license), achieving an overall score of **55.95**. Check out the updated rankings on our [**Leaderboard**](https://huggingface.co/spaces/muset-ai/DeepResearch-Bench-Leaderboard).
+
++ [6 Mar 2026] 🎉 **New Model Added**: We welcome [**Xiaoyi DeepResearch**](https://xiaoyi.huawei.com/chat/research) — a proprietary deep research agent, achieving an overall score of **55.13**. Check out the updated rankings on our [**Leaderboard**](https://huggingface.co/spaces/muset-ai/DeepResearch-Bench-Leaderboard).
 
 + [2 Mar 2026] 🎉 **New Model Added**: We welcome [**Bodhi Deep Research**](https://www.publicissapient.com/platforms/bodhi) — a proprietary deep research agent, achieving an overall score of **54.22**. Check out the updated rankings on our [**Leaderboard**](https://huggingface.co/spaces/muset-ai/DeepResearch-Bench-Leaderboard).
 

@@ -13,6 +13,13 @@
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
 
 # ✨ News
++ [20 Mar 2026] 🎉 **New Models Added**: We welcome three new models to DeepResearch Bench:
+  - 🥇 [**Cellcog Max**](https://www.cellcog.ai/) — a proprietary deep research agent, achieves **#1** with an overall score of **56.13**!
+  - 🥉 [**Cellcog**](https://www.cellcog.ai/) — a proprietary deep research agent, achieves **#3** with an overall score of **55.31**.
+  - [**RecallRadar Intelligence**](https://getrecallradar.com) — a proprietary deep research agent, achieving an overall score of **53.19**.
+  
+  Check out the updated rankings on our [**Leaderboard**](https://huggingface.co/spaces/muset-ai/DeepResearch-Bench-Leaderboard).
+
 + [17 Mar 2026] 🎉 **New Model Added**: We welcome [**CMCC-DeepInsight**](http://81.70.174.140:3000/) — achieving an overall score of **55.24** and ranking **#2** on the leaderboard! Check out the updated rankings on our [**Leaderboard**](https://huggingface.co/spaces/muset-ai/DeepResearch-Bench-Leaderboard).
 
 + [8 Mar 2026] 🎉 **New Model Added**: We welcome [**nvidia-aiq (Nemotron 3, GPT 5.2)**](https://github.com/NVIDIA-AI-Blueprints/aiq/tree/drb1) — an open-source deep research agent (Apache-2.0 license), achieving an overall score of **55.95**. Check out the updated rankings on our [**Leaderboard**](https://huggingface.co/spaces/muset-ai/DeepResearch-Bench-Leaderboard).

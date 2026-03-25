@@ -13,6 +13,8 @@
 <h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
 
 # ✨ News
++ [25 Mar 2026] 🎉 **New Model Added**: We welcome [**MS-Agent Agentic Insight v2（Qwen3.5-Plus、GPT 5）**](https://github.com/modelscope/ms-agent) — an open-source deep research agent (Apache-2.0 license), achieving an overall score of **54.97**. Check out the updated rankings on our [**Leaderboard**](https://huggingface.co/spaces/muset-ai/DeepResearch-Bench-Leaderboard).
+
 + [20 Mar 2026] 🎉 **New Models Added**: We welcome three new models to DeepResearch Bench:
   - 🥇 [**Cellcog Max**](https://www.cellcog.ai/) — a proprietary deep research agent, achieves **#1** with an overall score of **56.13**!
   - 🥉 [**Cellcog**](https://www.cellcog.ai/) — a proprietary deep research agent, achieves **#3** with an overall score of **55.31**.

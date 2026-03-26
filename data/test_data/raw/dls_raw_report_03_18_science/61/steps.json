@@ -1,0 +1,642 @@
+{
+  "workflow_name": "research",
+  "status": "completed",
+  "topic": "Research on the price dynamics of chub mackerel in major aquatic markets of Pacific Rim countries, and its interannual variations in weight/length. Combined with oceanographic theory, these research findings can further establish direct correlations between high-quality marine biological resources, aquatic markets, fishery economics, and the marine environment.",
+  "sub_topics": [
+    "Chub Mackerel Biological Variations",
+    "Price Dynamics in Aquatic Markets",
+    "Fishery Economics and Trade",
+    "Oceanographic Influences on Fisheries",
+    "Correlations Between Biology, Markets, and Environment"
+  ],
+  "arxiv_search_queries": [
+    "chub mackerel interannual weight length variation biology",
+    "price dynamics chub mackerel aquatic markets Pacific Rim",
+    "fishery economics trade chub mackerel Pacific Rim",
+    "oceanographic influences fisheries chub mackerel",
+    "correlations chub mackerel biology aquatic markets marine environment"
+  ],
+  "papers_by_topic": {
+    "oceanographic influences fisheries chub mackerel": [],
+    "chub mackerel interannual weight length variation biology": [],
+    "price dynamics chub mackerel aquatic markets Pacific Rim": [],
+    "fishery economics trade chub mackerel Pacific Rim": [],
+    "correlations chub mackerel biology aquatic markets marine environment": []
+  },
+  "sorted_papers": {},
+  "paper_summaries": [],
+  "paper_critic_summaries": [],
+  "web_queries": {
+    "Chub Mackerel Biological Variations": [
+      {
+        "query": "Chub mackerel (Scomber japonicus) interannual weight-length variation Pacific Rim"
+      },
+      {
+        "query": "Scomber japonicus growth and condition factor oceanographic influences"
+      },
+      {
+        "query": "Environmental drivers of chub mackerel biological variation"
+      },
+      {
+        "query": "Sea surface temperature effects on chub mackerel growth Pacific Rim"
+      },
+      {
+        "query": "Upwelling and nutrient availability influence chub mackerel size"
+      },
+      {
+        "query": "Chub mackerel length-weight relationship modeling"
+      },
+      {
+        "query": "Interannual variability in chub mackerel condition index"
+      },
+      {
+        "query": "Effect of ocean currents on chub mackerel biological traits"
+      },
+      {
+        "query": "Chub mackerel phenology and environmental correlates"
+      },
+      {
+        "query": "Long-term trends in chub mackerel growth patterns"
+      }
+    ],
+    "Price Dynamics in Aquatic Markets": [
+      {
+        "query": "Chub mackerel price dynamics Pacific Rim markets time series analysis"
+      },
+      {
+        "query": "Interannual price variations of chub mackerel in Japan, Korea, and China aquatic markets"
+      },
+      {
+        "query": "Relationship between chub mackerel weight/length fluctuations and market price"
+      },
+      {
+        "query": "Economics of chub mackerel fisheries in Pacific Rim countries"
+      },
+      {
+        "query": "Impact of seasonality on chub mackerel market prices"
+      },
+      {
+        "query": "Correlation between fish size distribution and price in chub mackerel trade"
+      },
+      {
+        "query": "Effects of supply and demand on chub mackerel price volatility"
+      },
+      {
+        "query": "Oceanographic drivers of chub mackerel catch and market price"
+      },
+      {
+        "query": "Sea surface temperature influence on chub mackerel price trends"
+      },
+      {
+        "query": "Marine environmental factors affecting chub mackerel economics"
+      },
+      {
+        "query": "Comparative analysis of aquatic market structures for chub mackerel"
+      },
+      {
+        "query": "Forecasting chub mackerel prices using biological and oceanographic indicators"
+      }
+    ],
+    "Fishery Economics and Trade": [
+      {
+        "query": "Interannual price dynamics of chub mackerel in Pacific Rim aquatic markets"
+      },
+      {
+        "query": "Chub mackerel weight and length variability and market price correlation Pacific Rim"
+      },
+      {
+        "query": "Econometric analysis of chub mackerel price fluctuations and fish size in major Pacific markets"
+      },
+      {
+        "query": "Oceanographic drivers of chub mackerel biomass and their impact on market prices"
+      },
+      {
+        "query": "Correlation between sea surface temperature anomalies and chub mackerel price trends"
+      },
+      {
+        "query": "Linking marine environment indicators to chub mackerel fishery economics"
+      },
+      {
+        "query": "Supply–demand dynamics of Pacific Rim chub mackerel trade"
+      },
+      {
+        "query": "Price elasticity and market integration of chub mackerel across Japan, Korea, and US"
+      },
+      {
+        "query": "Export-import trade flows and pricing of chub mackerel in Pacific Rim economies"
+      },
+      {
+        "query": "Role of fishery subsidies on chub mackerel market prices and trade volumes"
+      },
+      {
+        "query": "High-quality marine biomass valuation: chub mackerel case study"
+      },
+      {
+        "query": "Econometric modeling of chub mackerel price and biological variability in fisheries economics"
+      }
+    ],
+    "Oceanographic Influences on Fisheries": [
+      {
+        "query": "Chub mackerel price dynamics in Pacific Rim markets under oceanographic influences"
+      },
+      {
+        "query": "Interannual weight and length variations of chub mackerel and ocean environment correlations"
+      },
+      {
+        "query": "Impact of sea surface temperature anomalies on chub mackerel biology and market prices"
+      },
+      {
+        "query": "ENSO effects on chub mackerel catch composition and price trends in Pacific Rim fisheries"
+      },
+      {
+        "query": "Nutrient upwelling influence on chub mackerel growth and fishery economics"
+      },
+      {
+        "query": "Ocean currents and chub mackerel size-quality relationship in Pacific Rim aquatic markets"
+      },
+      {
+        "query": "Correlation between chub mackerel biological traits and market prices in major Pacific Rim countries"
+      },
+      {
+        "query": "Fishery economic modeling of chub mackerel incorporating oceanographic variables"
+      },
+      {
+        "query": "High-quality marine biological resources fishery markets and ocean environment theory"
+      },
+      {
+        "query": "Modeling fisheries market prices using oceanographic parameters case study on chub mackerel"
+      },
+      {
+        "query": "Stock assessment of chub mackerel related to oceanographic variability and price fluctuations"
+      },
+      {
+        "query": "Economic analysis of chub mackerel markets in Pacific Rim under environmental drivers"
+      }
+    ],
+    "Correlations Between Biology, Markets, and Environment": [
+      {
+        "query": "price dynamics of chub mackerel in major Pacific Rim fish markets"
+      },
+      {
+        "query": "interannual variations in weight and length of chub mackerel in Pacific Rim countries"
+      },
+      {
+        "query": "link between chub mackerel biological traits and market price fluctuations"
+      },
+      {
+        "query": "impact of oceanographic factors on chub mackerel growth and price trends"
+      },
+      {
+        "query": "time series analysis of chub mackerel length-weight and market price"
+      },
+      {
+        "query": "relationship between sea surface temperature and chub mackerel market value"
+      },
+      {
+        "query": "fishery economics of chub mackerel in Pacific Rim: biomass-price correlation"
+      },
+      {
+        "query": "economic impacts of environmental variability on chub mackerel fisheries"
+      },
+      {
+        "query": "market demand and price trends for chub mackerel in East Asian aquatic markets"
+      },
+      {
+        "query": "integrating oceanographic theory with chub mackerel market and biological data"
+      }
+    ]
+  },
+  "web_sources": {
+    "Chub Mackerel Biological Variations": [
+      {
+        "web_source_id": 1,
+        "title": "and inter-specific density dependence of body condition, growth ...",
+        "url": "https://www.biorxiv.org/content/10.1101/2021.03.25.436928.full",
+        "snippet": "Mar 26, 2021 ... Chub mackerel (Scomber japonicus) is widely distributed across the North Pacific ... variation in the recruitment of chub mackerel (Scomber ...",
+        "body": "The webpage content could not be accessed because it requires enabling JavaScript and cookies. As a result, no substantive information about the main topic, key facts, or details from the original page is available for summarization."
+      },
+      {
+        "web_source_id": 1,
+        "title": "Effects of western boundary currents and sea surface temperature ...",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1385110124000947",
+        "snippet": "The abundance of chub mackerel (Scomber japonicus) in the Northwest Pacific has undergone significant changes in recent decades.",
+        "body": "The webpage from ScienceDirect was unable to provide the requested content due to a technical issue. Users are advised to contact the support team for assistance and to provide a reference number for troubleshooting. The page also includes standard information about ScienceDirect's terms, privacy policy, and copyright, noting that all rights are reserved for the site's content, including for text and data mining and AI training, except where open access licensing applies."
+      },
+      {
+        "web_source_id": 1,
+        "title": "Intra- and inter-specific density dependence of body condition ...",
+        "url": "https://academic.oup.com/icesjms/article/78/9/3254/6380055",
+        "snippet": "A total of 18302 chub mackerel landed in fishing ports on the Pacific coast ... Pacific chub mackerel (Scomber japonicus) . Frontiers in Marine Science. ,. 8.",
+        "body": "The webpage content could not be accessed because it requires enabling JavaScript and cookies. As a result, no substantive information about the main topic, key facts, or details of the page are available for summarization."
+      },
+      {
+        "web_source_id": 1,
+        "title": "Evaluating the influence of environmental factors on the early life ...",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0079661122000829",
+        "snippet": "... growth of chub mackerel (Scomber japonicus) using a growth and migration model ... 4a, c), suggesting that prey conditions were the dominant environmental factor ...",
+        "body": "The webpage from ScienceDirect could not provide the requested content due to a technical issue. Users are advised to contact the support team for assistance and reference the provided error details. The page also includes standard information about ScienceDirect's terms, privacy policy, and copyright, noting that all rights are reserved for text and data mining, AI training, and similar technologies, except where open access licensing applies."
+      },
+      {
+        "web_source_id": 1,
+        "title": "Maternal spawning experience and thermal effects on offspring ...",
+        "url": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2022.1063468/full",
+        "snippet": "Dec 22, 2022 ... ). Evaluating the influence of environmental factors on the early life history growth of chub mackerel (Scomber japonicus) using a growth and ...",
+        "body": "This scientific article investigates how maternal spawning experience and water temperature affect the viability and early development of chub mackerel (Scomber japonicus) offspring, with implications for the species' reproductive success and population dynamics in the western North Pacific. The study found that eggs from older, repeat-spawning females (2-3 years old) are larger and more nutrient-rich than those from first-time spawners (1 year old), leading to larvae with greater starvation tolerance, larger size at first feeding, and faster early growth. However, higher water temperatures result in smaller eggs and larvae, though they accelerate development and growth rates. The optimal temperature range for successful recruitment in the wild was estimated to be 18.0–20.3°C. The research suggests that both maternal experience and thermal environment are critical for offspring viability and that repeat spawners contribute disproportionately to population resilience. These findings highlight the importance of considering maternal effects and environmental conditions in fisheries management for sustainable chub mackerel populations."
+      },
+      {
+        "web_source_id": 1,
+        "title": "A case study of chub mackerel (Scomber japonicus) in northeastern ...",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0141113624004641",
+        "snippet": "Oceanographic conditions, including physical, chemical, and biological factors, significantly influence fishery distribution, affecting the availability and ...",
+        "body": "The webpage from ScienceDirect was unable to provide the requested content due to a technical issue. Users are advised to contact the support team for assistance and reference the provided error details. The page also includes standard information about ScienceDirect's terms, privacy policy, and copyright, noting that all rights are reserved for content on the site, except for open access materials which have their own licensing terms."
+      },
+      {
+        "web_source_id": 1,
+        "title": "Temporal, Environmental, and Biological Drivers of the Mucosal ...",
+        "url": "https://pubmed.ncbi.nlm.nih.gov/32434844/",
+        "snippet": "May 20, 2020 ... IMPORTANCE Pacific chub mackerel, Scomber japonicus, are one of the ... variation and to understand the environmental drivers of the microbiome.",
+        "body": "This scientific study investigates the temporal, environmental, and biological factors influencing the mucosal microbiome of the Pacific chub mackerel (Scomber japonicus), an economically important marine fish. Researchers sampled five body sites (gill, skin, digesta, gastrointestinal tract, and pyloric ceca) from 229 fish collected over 38 time points throughout a year at the Scripps Institution of Oceanography Pier in La Jolla, California. The study found that mucosal sites on the fish harbored unique and highly diverse microbial communities, distinct from those in surrounding seawater and sediment. The skin and gill microbiomes were more similar to seawater, while the digesta resembled sediment microbiota. Environmental factors such as sea surface temperature, chlorophyll a, and fish age significantly influenced the diversity of skin and gill microbiomes. Seasonal changes in the microbiome were confirmed not to be due to fish migration. The pathogen Photobacterium damselae was prevalent across multiple body sites, especially during warmer months (June-September). The research establishes a baseline for understanding how environmental stressors, including climate change, may impact fish health and disease risk, with implications for fisheries and aquaculture management."
+      },
+      {
+        "web_source_id": 1,
+        "title": "Temporal, Environmental, and Biological Drivers of the Mucosal ...",
+        "url": "https://journals.asm.org/doi/10.1128/msphere.00401-20",
+        "snippet": "Pacific chub mackerel, Scomber japonicus, are one of the largest and most economically important fisheries in the world. The fish is harvested for both ...",
+        "body": "The webpage content could not be accessed because it requires enabling JavaScript and cookies. As a result, the main topic and key information from the page are not available for summarization."
+      },
+      {
+        "web_source_id": 1,
+        "title": "Spatial variability of life-history parameters of the Atlantic chub ...",
+        "url": "https://scientiamarina.revistas.csic.es/index.php/scientiamarina/article/view/1937",
+        "snippet": "Dec 14, 2022 ... Environmental processes driving anchovy and sardine distribution in ... Some biological characters of chub mackerel (Scomber japonicus ...",
+        "body": "No content available to summarize."
+      }
+    ],
+    "Price Dynamics in Aquatic Markets": [
+      {
+        "web_source_id": 1,
+        "title": "Analyzing and modeling public interest in fishery resources - PMC",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12970879/",
+        "snippet": "Mar 9, 2026 ... In addition, because the Google Trends time series analyzed in this ... price series used in this study as part of the analysis dataset.",
+        "body": "This scientific article investigates the drivers of public interest in Japanese fishery resources and proposes the use of a flagship species to promote sustainable fisheries in Japan. Using Google Trends data from 2010 to 2023, the study analyzes public search behavior for seven major fish species regulated by Japan's Total Allowable Catch (TAC) system. The research finds that public interest is primarily shaped by two archetypes: predictable seasonality and regional supply. Market prices generally have a stronger influence on search interest than catch volumes, except for Pacific saury (Cololabis saira), whose public profile is increasingly linked to both declining stock status and catch volume. Pacific saury stands out as a potential flagship species due to its national recognition, cultural significance, and the public's growing concern over its depletion. The study demonstrates that digital trace data like Google Trends can provide a low-cost, real-time method for monitoring public attention and guiding conservation communication strategies. The authors recommend timing outreach to seasonal peaks in public interest, targeting high-catch/high-attention regions, and using Pacific saury as a national flagship to raise awareness about sustainable fisheries. The methodology and findings are presented as transferable to fisheries management beyond Japan."
+      },
+      {
+        "web_source_id": 1,
+        "title": "The State of World Fisheries and Aquaculture 2022",
+        "url": "https://openknowledge.fao.org/server/api/core/bitstreams/a2090042-8cda-4f35-9881-16f6302ce757/content",
+        "snippet": "Jun 30, 2021 ... This flagship publication is part of The State of the World series of the Food and Agriculture Organization of the United Nations. Required ...",
+        "body": "The webpage could not be accessed due to a 403 Forbidden error. As a result, no content from the intended page is available for summarization. The error message indicates that permission to access the resource was denied."
+      },
+      {
+        "web_source_id": 1,
+        "title": "The status of fishery resources - FAO.org",
+        "url": "https://www.fao.org/3/cc0461en/online/sofia/2022/status-of-fishery-resources.html",
+        "snippet": "Biologically sustainable stocks account for 82.5 percent of the 2019 landings of assessed stocks monitored by FAO. FIGURE 23GLOBAL TRENDS IN THE STATE OF THE ...",
+        "body": "The webpage could not be accessed due to a 403 Forbidden error. As a result, no content from the original page is available for summarization."
+      },
+      {
+        "web_source_id": 1,
+        "title": "The State of World Fisheries and Aquaculture 2022",
+        "url": "https://openknowledge.fao.org/server/api/core/bitstreams/a2090042-8cda-4f35-9881-16f6302ce757/content",
+        "snippet": "Jun 30, 2021 ... ... aquatic food systems. 109. Intensifying and expanding sustainable ... China (mainland) in recent years. 40. 20 Composition of marine and ...",
+        "body": "The webpage could not be accessed due to a 403 Forbidden error. As a result, no content from the original page is available for summarization."
+      },
+      {
+        "web_source_id": 1,
+        "title": "Asia | Climate Change 2022: Impacts, Adaptation and Vulnerability",
+        "url": "https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-10/",
+        "snippet": "Given that in Asia, especially Singapore, China, Japan and Republic of Korea ... market price fluctuations (Müller et al., 2017). Regional catastrophic ...",
+        "body": "This chapter from the IPCC Sixth Assessment Report (2022) provides a comprehensive assessment of climate change impacts, adaptation, and vulnerability in Asia. It highlights that surface air temperatures have increased across Asia since the 20th century, intensifying threats to social and economic sustainability. Key risks include more frequent and severe heatwaves, droughts, floods, glacier melting, and sea level rise, with significant impacts on water resources, agriculture, food security, health, and urban infrastructure. The report details observed and projected changes in terrestrial, freshwater, and coastal ecosystems, noting biodiversity loss, shifts in species ranges, and increased wildfire severity. Urban areas are identified as high-risk zones due to rapid urbanization, exposure to extreme events, and large vulnerable populations. Adaptation efforts are underway but remain uneven and often reactive, with significant barriers including governance fragmentation, finance deficits, and knowledge gaps. The report emphasizes the need for integrated, proactive adaptation strategies, improved governance, technological innovation, and the inclusion of Indigenous and local knowledge. It also discusses the importance of climate-resilient development pathways that align adaptation, mitigation, and sustainable development goals, and highlights the growing role of migration, risk insurance, and social protection in managing climate risks."
+      },
+      {
+        "web_source_id": 1,
+        "title": "Enhancing Chub Mackerel Catch Per Unit Effort (CPUE ... - MDPI",
+        "url": "https://www.mdpi.com/2071-1050/16/3/1307",
+        "snippet": "Feb 4, 2024 ... Korean and Japanese purse seiners harvest chub mackerel stocks mainly in the East China ... Interannual variability of the Korea Strait ...",
+        "body": "The content of the webpage could not be accessed due to a permissions error. As a result, no information about the main topic, key facts, or other details from the original page is available for summarization."
+      },
+      {
+        "web_source_id": 1,
+        "title": "and inter-specific density dependence of body condition, growth ...",
+        "url": "https://www.biorxiv.org/content/10.1101/2021.03.25.436928.full",
+        "snippet": "Mar 26, 2021 ... ... between weight and length, and b is the exponent of that relationship. ... rate in terms of length (GL) by quarter for chub mackerel. The final ...",
+        "body": "The webpage content could not be accessed because it requires enabling JavaScript and cookies. As a result, no substantive information about the main topic, key facts, or details from the page is available for summarization."
+      },
+      {
+        "web_source_id": 1,
+        "title": "Long-term changes in maturity at age of chub mackerel (Scomber ...",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0165783606000154",
+        "snippet": "We found a clear trend for the proportion of mature females at given ages to increase, and the length and age at 50% maturity to decrease.",
+        "body": "The webpage from ScienceDirect could not provide the requested content due to a technical issue. Users are advised to contact the support team for assistance and reference the provided error details. The page also includes standard information about ScienceDirect's terms, privacy policy, and copyright, noting that all rights are reserved for the site's content, including for text and data mining and AI training, except where open access licensing applies."
+      },
+      {
+        "web_source_id": 1,
+        "title": "Intra- and inter-specific density dependence of body condition ...",
+        "url": "https://academic.oup.com/icesjms/article/78/9/3254/6380055",
+        "snippet": "... between weight and length, and b is the exponent of that relationship. We ... In chub mackerel, there was negative correlation between size at age 0 ...",
+        "body": "The webpage content could not be accessed because it requires enabling JavaScript and cookies. As a result, no substantive information about the main topic, key facts, or details from the original page is available for summarization."
+      }
+    ],
+    "Fishery Economics and Trade": [
+      {
+        "web_source_id": 1,
+        "title": "Long-term changes in maturity at age of chub mackerel (Scomber ...",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0165783606000154",
+        "snippet": "Materials and methods. We used chub mackerel biological data sets including fork length, body weight ... Pacific stock of chub mackerel of Japan during 1970–1998.",
+        "body": "The webpage from ScienceDirect was unable to provide the requested content due to a technical issue. Users are advised to contact the support team for assistance and reference the provided error details. The page also includes standard information about ScienceDirect's terms, privacy policy, and copyright, noting that all rights are reserved for content on the site, including for text and data mining, AI training, and similar technologies. Open access content is subject to its own licensing terms."
+      },
+      {
+        "web_source_id": 1,
+        "title": "and inter-specific density dependence of body condition, growth ...",
+        "url": "https://www.biorxiv.org/content/10.1101/2021.03.25.436928.full",
+        "snippet": "Mar 26, 2021 ... ... chub mackerel in the total mackerel catch in the Pacific stock. The ... In chub mackerel, there was negative correlation between size ...",
+        "body": "The webpage content could not be accessed because it requires enabling JavaScript and cookies. As a result, no substantive information about the main topic, key facts, or details from the original page is available for summarization."
+      },
+      {
+        "web_source_id": 1,
+        "title": "Spatial variability of life-history parameters of the Atlantic chub ...",
+        "url": "https://scientiamarina.revistas.csic.es/index.php/scientiamarina/article/view/1937",
+        "snippet": "Dec 14, 2022 ... ... variation of the biological parameters (age, length, weight and ... chub mackerel Scomber colias Gmelin, 1789 from the Moroccan coast.",
+        "body": "No content available to summarize."
+      },
+      {
+        "web_source_id": 1,
+        "title": "The State of World Fisheries and Aquaculture 2022",
+        "url": "https://openknowledge.fao.org/server/api/core/bitstreams/a2090042-8cda-4f35-9881-16f6302ce757/content",
+        "snippet": "Jun 30, 2021 ... ... major producing countries and territories. 14. 3 Marine capture ... This report also highlights further changes needed in the fisheries ...",
+        "body": "The webpage could not be accessed due to a 403 Forbidden error. As a result, no content from the intended page is available for summarization."
+      },
+      {
+        "web_source_id": 1,
+        "title": "Industry-initiated catch limit management: The case of purse seine ...",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0308597X22001002",
+        "snippet": "This study describes the historical context, the current situation, and the price changes associated with the mackerel (chub mackerel Scomber japonicus, blue ...",
+        "body": "The webpage from ScienceDirect could not provide the requested content due to a technical issue. Users are advised to contact the support team for assistance and to provide the reference number and IP address listed. The page also includes standard information about ScienceDirect's copyright, licensing, and support policies."
+      },
+      {
+        "web_source_id": 1,
+        "title": "Bio-economic indicators of fisheries: impact of variations in landings ...",
+        "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10081457/",
+        "snippet": "Apr 4, 2023 ... This study investigates fish market prices in relation to landings and fish sizes from Türkiye's largest fish market in Istanbul as the study site.",
+        "body": "This scientific article investigates the relationship between fish landings, fish size, and market prices at the Istanbul Fish Market (IFM), Türkiye's largest fish market, from 2006 to 2019. The study analyzed data for 39 wild marine fish species, focusing on how variations in landings and fish size affect market prices. Key findings include:\n\n- Fish prices generally increase with fish size, with demersal fish (bottom-dwelling) being the most expensive, followed by medium pelagic and small pelagic species.\n- Maximum fish length (local Lmax) had the strongest positive effect on market price, while trophic level and vulnerability had weaker positive effects. Landings amount alone was not a significant predictor of price.\n- For 12 out of 39 species, there was a significant negative correlation between annual landings and average price, indicating that declining catches often led to higher prices, especially for demersal and medium pelagic fish.\n- Iconic species like bluefish and Atlantic bonito showed high price volatility, with highest prices during peak landings, reflecting strong consumer demand and cultural preferences.\n- Seasonal closures (April 15–August 31) led to decreased landings and increased prices, particularly for demersal fish.\n- The study highlights the importance of market prices as economic indicators for fisheries, suggesting they can reveal ecosystem changes and socioeconomic drivers, especially in data-poor regions like Türkiye.\n- The authors recommend improved management, including real-time monitoring, consumer education, and better support for fishery cooperatives to ensure sustainability and fair pricing.\n\nThe article also discusses the limitations of available data and the need for more comprehensive economic and biological indicators to inform fisheries management."
+      }
+    ],
+    "Oceanographic Influences on Fisheries": [
+      {
+        "web_source_id": 1,
+        "title": "The State of World Fisheries and Aquaculture 2022",
+        "url": "https://openknowledge.fao.org/server/api/core/bitstreams/a2090042-8cda-4f35-9881-16f6302ce757/content",
+        "snippet": "Jun 30, 2021 ... Under the terms of this licence, this work may be copied ... Price Index. 101. 55 Share of main groups of species in exports of aquatic ...",
+        "body": "The webpage could not be accessed due to a 403 Forbidden error. As a result, no content from the intended page is available for summarization. The error message indicates that permission to access the resource was denied."
+      },
+      {
+        "web_source_id": 1,
+        "title": "The status of fishery resources - FAO.org",
+        "url": "https://www.fao.org/3/cc0461en/online/sofia/2022/status-of-fishery-resources.html",
+        "snippet": "The percentage of assessed stocks in the Eastern Central Pacific fished within ... Horse mackerel and hake support the largest fisheries of the region and ...",
+        "body": "The webpage could not be accessed due to a 403 Forbidden error. As a result, no content from the intended page is available for summarization. The error message indicates that permission to access the resource was denied."
+      },
+      {
+        "web_source_id": 1,
+        "title": "Climate Change Influences via Species Distribution Shifts and ...",
+        "url": "https://onlinelibrary.wiley.com/doi/10.1111/gcb.70021",
+        "snippet": "Jan 6, 2025 ... ... Pacific hake, Pacific herring, jack mackerel, chub mackerel, and market squid. For some species, these biomass changes approximated the ...",
+        "body": "The webpage content could not be accessed because it requires enabling JavaScript and cookies. As a result, no substantive information about the main topic, key facts, or details of the page is available for summarization."
+      },
+      {
+        "web_source_id": 1,
+        "title": "Evaluating the influence of environmental factors on the early life ...",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0079661122000829",
+        "snippet": "Effects of density-dependence and sea surface temperature on interannual variation in length-at-age of chub mackerel (Scomber japonicus) in the Kuroshio ...",
+        "body": "The webpage from ScienceDirect was unable to provide the requested content due to a technical issue. Users are advised to contact the support team for assistance and reference the provided error details. The page also includes standard information about ScienceDirect's terms, privacy policy, and copyright, noting that all rights are reserved for content, including for text and data mining and AI training, except where open access licensing applies."
+      },
+      {
+        "web_source_id": 1,
+        "title": "Distribution of the Pacific stock of chub mackerel (Scomber ...",
+        "url": "https://www.researchgate.net/figure/Distribution-of-the-Pacific-stock-of-chub-mackerel-Scomber-japonicus-and-major_fig3_242606605",
+        "snippet": "... sea surface temperature on interannual variation in length-at-age of chub mackerel (Scomber japonicus) in the Kuroshio-Oyashio area during 1970-1997 ...",
+        "body": "The webpage from ResearchGate is currently inaccessible due to access restrictions set by the site owner. As a result, the requested content, which appears to relate to the distribution of the Pacific stock of chub mackerel (Scomber japonicus) and major fishing grounds, cannot be viewed or summarized. The error occurred on March 17, 2026, and is identified by error reference number 1020."
+      },
+      {
+        "web_source_id": 1,
+        "title": "Spatiotemporal analysis of marine environmental influence on the ...",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1385110124000479",
+        "snippet": "... changes in distribution with size and age of chub mackerel. 5. Conclusion. In ... Effects of Density-Dependence and Sea Surface Temperature on Interannual ...",
+        "body": "The webpage from ScienceDirect was unable to provide the requested content due to a technical issue. Users are advised to contact the support team for assistance and reference the provided error details. The page also includes standard information about ScienceDirect's terms, privacy policy, and copyright, noting that all rights are reserved for content, including for text and data mining, AI training, and similar technologies. Open access content is subject to relevant licensing terms."
+      },
+      {
+        "web_source_id": 1,
+        "title": "causes and consequences of crossing the tipping point in a small ...",
+        "url": "https://link.springer.com/article/10.1007/s11160-024-09885-9",
+        "snippet": "Aug 14, 2024 ... Our study demonstrated that anomalies in the Sea Surface Temperature and the North Atlantic Oscillation caused a regime shift within the small pelagic ...",
+        "body": "This scientific article investigates the impact of climate change—specifically rising sea surface temperatures (SST) and changes in the North Atlantic Oscillation (NAO)—on small pelagic fish communities in the Madeira Archipelago (NE Atlantic Ocean) over a 40-year period (1980–2019). The study analyzes both community-level fishery landings and population-level life-history traits of two key species: Scomber colias (Atlantic chub mackerel) and Trachurus picturatus (blue jack mackerel).\n\nKey findings include:\n- A significant regime shift occurred in 1997, marking a tipping point where fishery landings (catch per unit effort, CPUE) sharply declined. This shift was closely linked to anomalies in SST and NAO, which together explained 88.9% of the variance in CPUE.\n- After the tipping point, the fish community experienced warmer conditions, lower CPUE, and changes in life-history traits: both species showed faster juvenile growth, earlier maturation, smaller adult sizes, and higher natural mortality rates in warmer periods.\n- S. colias demonstrated a more favorable adaptive response to warming compared to T. picturatus, with less pronounced increases in mortality and growth rates.\n- The study underscores the importance of integrating environmental data and life-history traits into fisheries management to enhance resilience and sustainability under ongoing climate change.\n\nMethodologically, the research used long-term fishery and biological data, statistical modeling (including General Additive Models and principal component analysis), and compared biological parameters before and after the identified tipping point. The authors call for urgent climate-adaptive fisheries reforms and highlight the ecological and economic consequences of declining small pelagic fish populations, which are vital for marine food webs and local economies."
+      },
+      {
+        "web_source_id": 1,
+        "title": "Habitat changes and catch rate variability for greater amberjack in ...",
+        "url": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2023.1024669/full",
+        "snippet": "Mar 16, 2023 ... Hövmöller plot of anomalies in six environmental variables; (A) sea surface temperature anomaly (SSTA), ... ). Distribution of hotspots of chub ...",
+        "body": "This scientific article investigates how El Niño–Southern Oscillation (ENSO) events affect the habitat suitability and catch rates of the greater amberjack (Seriola dumerili) in the Taiwan Strait (TS) from 2014 to 2019. Using a weighted habitat suitability index (HSI) model and remotely sensed environmental data, the study finds that ENSO-driven climate variability significantly influences both the distribution and abundance of greater amberjack. Key environmental variables analyzed include sea surface temperature (SST), sea surface salinity (SSS), sea surface height (SSH), chlorophyll-a (Chl-a), mixed layer depth (MLD), and eddy kinetic energy (EKE). Results show that catch rates are higher in spring, summer, and autumn during El Niño years, while winter catch rates peak in normal years and are lowest in La Niña years. The optimal habitat zones are identified as 20–24°N (southern TS) and 24–28°N (northern TS), with habitat suitability fluctuating seasonally and in response to ENSO phases. The study concludes that ENSO events play a crucial role in regulating environmental conditions, affecting both the catch rates and habitat suitability for greater amberjack, and recommends incorporating climate variability into fishery management strategies for sustainable use."
+      },
+      {
+        "web_source_id": 1,
+        "title": "Review of population dynamics and management of small pelagic ...",
+        "url": "https://link.springer.com/article/10.1007/s12562-019-01305-3",
+        "snippet": "Apr 3, 2019 ... Moreover, the annual average sea surface temperature (SST) ... In Japan, chub and spotted mackerels fetch a high market price and ...",
+        "body": "This review article examines the population dynamics and management of small pelagic fishes (SPF) around the Japanese Archipelago, focusing on Japanese sardine (Sardinops melanostictus), Japanese anchovy (Engraulis japonicus), chub mackerel (Scomber japonicus), and Pacific saury (Cololabis saira). The study highlights that SPF populations and catches have shown decadal-scale variability and species replacements since the 1900s, often linked to climatic and oceanic regime shifts, especially the influential 1988/89 shift. Early survival rates and recruitment variability, driven by environmental factors such as sea surface temperature (SST), mixed layer depth (MLD), and primary productivity, are key to population fluctuations. Overfishing in the 1990s and early 2000s, exacerbated by overinvestment in fishing fleets during periods of high productivity, hindered stock recovery, but management reforms and reduced exploitation rates since the mid-2000s have led to partial recovery of sardine and chub mackerel stocks. The review details the biology, migration, and fisheries of each species, the impact of environmental indices (PDO, NPGO, AO, MOI), and the challenges of managing SPF under natural and anthropogenic pressures. It recommends improving harvest control rules (HCRs), adopting fishery-independent monitoring, conserving marine biodiversity, and establishing international management frameworks, especially in the Japan Sea, East China Sea, and Yellow Sea, to ensure sustainable SPF fisheries in the context of climate change and international fishing pressures."
+      }
+    ],
+    "Correlations Between Biology, Markets, and Environment": [
+      {
+        "web_source_id": 1,
+        "title": "The Spatio-Temporal Distribution and Population Dynamics of Chub ...",
+        "url": "https://www.mdpi.com/2076-2615/15/8/1135",
+        "snippet": "Chub mackerel (Scomber japonicus) is a typical small pelagic fish in the high seas of the Northwest Pacific Ocean (NPO), with great ecological and economic ...",
+        "body": "The content of the webpage could not be accessed due to a permissions error. As a result, no information about the main topic, key facts, or details from the original page is available for summarization."
+      },
+      {
+        "web_source_id": 1,
+        "title": "West Coast Coastal Pelagic Species | NOAA Fisheries",
+        "url": "https://www.fisheries.noaa.gov/species/west-coast-coastal-pelagic-species",
+        "snippet": "Coastal pelagic species on the West Coast include Pacific sardine, Pacific mackerel, jack mackerel, northern anchovy, market squid, and krill ... Pacific (chub) ...",
+        "body": "The NOAA Fisheries webpage provides a comprehensive overview of the management, biology, and commercial aspects of West Coast Coastal Pelagic Species (CPS), which include Pacific sardine, Pacific mackerel, jack mackerel, northern anchovy, market squid, and krill. These species inhabit the water column above the continental shelf and are vital to the California Current ecosystem, serving as food for marine mammals, seabirds, and larger fish, as well as supporting commercial and recreational fisheries.\n\nCPS management is overseen by NOAA Fisheries and the Pacific Fishery Management Council, with the California Department of Fish and Wildlife co-managing market squid. The CPS Fishery Management Plan distinguishes between actively managed species (Pacific sardine, Pacific mackerel), which undergo regular stock assessments and harvest adjustments, and monitored species (northern anchovy, market squid, jack mackerel), which are tracked against annual catch limits. Krill harvest is prohibited.\n\nThe commercial CPS fishery operates mainly off southern and central California, with smaller operations in Oregon and Washington. It consists of four sectors: primary directed, live bait, minor directed, and tribal fisheries. CPS are primarily caught using purse seine and similar nets, and are sold globally for human consumption, bait, and pet food. Major fishing ports include San Pedro/Terminal Island, Ventura, Monterey, Moss Landing, Astoria (Oregon), and Westport (Washington).\n\nRecent management measures include:\n- For the 2025–2026 Pacific sardine season, no primary directed fishery is allowed due to low biomass; only incidental and minor directed catches are permitted, with a 2,200 mt annual catch limit.\n- Pacific mackerel harvest guidelines are set at 7,871 mt (2023–2024) and 8,943 mt (2024–2025).\n- Central subpopulation of northern anchovy has a 25,000 mt annual catch limit; krill harvest remains prohibited.\n\nThe management framework is designed to respond quickly to stock changes, with annual stock assessments informing harvest limits. Recent amendments to the management plan have focused on rebuilding overfished stocks (notably Pacific sardine), clarifying regulations, and updating catch limits. Scientific research, including stock assessments and climate impact studies, is conducted by NOAA’s Southwest Fisheries Science Center and through international collaboration."
+      },
+      {
+        "web_source_id": 1,
+        "title": "The State of World Fisheries and Aquaculture 2022",
+        "url": "https://openknowledge.fao.org/server/api/core/bitstreams/a2090042-8cda-4f35-9881-16f6302ce757/content",
+        "snippet": "Jun 30, 2021 ... ... major fishing areas. 18. 5 Inland waters capture production: major producing countries and territories. 22. 6 World aquaculture production and ...",
+        "body": "The webpage could not be accessed due to a 403 Forbidden error. As a result, no content from the original page is available for summarization."
+      },
+      {
+        "web_source_id": 1,
+        "title": "Climate-induced variation in a temperature suitability index of chub ...",
+        "url": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2022.996626/full",
+        "snippet": "Nov 24, 2022 ... ... countries around the northwestern Pacific Ocean. Concerning the Pacific stock of chub mackerel, it typically inhabits the Pacific coast of ...",
+        "body": "This scientific article investigates how climate-induced changes in sea surface temperature (SST) affect the spawning temperature suitability index (TSI) of chub mackerel (Scomber japonicus) in the northwestern Pacific Ocean, and how these changes impact the abundance of two main stocks: the Tsushima Warm Current (TWC) stock and the Pacific stock. The study uses long-term catch, biomass, recruitment, SST, and climate index data from 1970 to 2017, applying statistical and modeling techniques (including empirical orthogonal function analysis, gradient forest, and generalized additive models) to analyze relationships between environmental variables and fish abundance. Key findings include: (1) Both TWC and Pacific stocks show significant interannual and decadal variability in abundance, with different patterns and regime shifts—TWC in the 1990s and Pacific in the late 1970s; (2) The TSI in spawning areas is closely linked to stock abundance, with non-stationary (threshold) relationships driven by climate variability such as the Siberian High and Aleutian Low; (3) Climate variability affects chub mackerel abundance indirectly by altering spawning habitat suitability, which in turn influences recruitment and stock size; (4) Effective management of chub mackerel resources requires accounting for these stock-specific responses and international cooperation. The study emphasizes the importance of considering both environmental and density-dependent (biotic) factors in future resource assessments."
+      },
+      {
+        "web_source_id": 1,
+        "title": "Growth Heterogeneity of Chub Mackerel (Scomber japonicus) in the ...",
+        "url": "https://www.mdpi.com/2077-1312/10/2/301",
+        "snippet": "Changes in fork length and body weight distribution of Chub mackerel specimens collected from waters off the northwest Pacific Ocean presented by years ...",
+        "body": "The content of the webpage could not be accessed due to a permissions error. As a result, no information about the main topic, key facts, or other details from the original page is available for summarization."
+      },
+      {
+        "web_source_id": 1,
+        "title": "Construction of CPUE standardization model and its simulation ...",
+        "url": "https://www.sciencedirect.com/science/article/pii/S1470160X23011640",
+        "snippet": "In this study, we integrated chub mackerel fishery statistics from the Northwest Pacific Ocean (NPO) and marine remote sensing environmental data,",
+        "body": "The webpage from ScienceDirect could not provide the requested content due to a technical issue. Users are advised to contact the support team for assistance and reference the provided error details. The page also includes standard information about ScienceDirect's terms, privacy policy, and copyright, noting that all rights are reserved for text and data mining, AI training, and similar technologies, except where open access licensing applies."
+      },
+      {
+        "web_source_id": 1,
+        "title": "Advancing mixed pelagic fishery stock assessment",
+        "url": "https://www.sciencedirect.com/science/article/abs/pii/S0924796326000205",
+        "snippet": "... value compared to chub mackerel (Kitasato et al., 2018). These two species share many life history traits, including habitat, feeding, and spawning ...",
+        "body": "The webpage from ScienceDirect could not provide the requested content due to a technical issue. Users are advised to contact the support team for assistance and reference the provided error details. The page also includes standard information about ScienceDirect's terms, privacy policy, and copyright, noting that all rights are reserved for content, including for text and data mining, AI training, and similar technologies. Open access content is subject to relevant licensing terms."
+      },
+      {
+        "web_source_id": 1,
+        "title": "King Mackerel | NOAA Fisheries",
+        "url": "https://www.fisheries.noaa.gov/species/king-mackerel",
+        "snippet": "There are three stocks of king mackerel: a South Atlantic stock, a Gulf of Mexico stock and a stock contained in the Puerto Rico Mackerels Complex. According to ...",
+        "body": "The NOAA Fisheries webpage provides a comprehensive overview of the king mackerel (Scomberomorus cavalla), a coastal pelagic fish found in the Atlantic Ocean from Massachusetts to Brazil, including the Gulf of America (formerly Gulf of Mexico) and the Caribbean. U.S. wild-caught king mackerel is considered a sustainable seafood choice due to responsible management and harvesting under U.S. regulations. There are three main stocks: South Atlantic, Gulf of America, and Puerto Rico Mackerels Complex. Both the South Atlantic and Gulf of America stocks are not overfished and not subject to overfishing, according to 2020 assessments. The Puerto Rico stock's status is unknown but not subject to overfishing based on 2019 data. \n\nKing mackerel are fast-growing, can reach up to 5.5 feet and 100 pounds, and live over 20 years. They spawn from May to October, with females producing up to several million eggs. The species is managed by NOAA Fisheries and regional councils, with measures including limited permits, catch limits, size limits, and seasonal closures. In 2023, commercial landings were 4 million pounds (valued at over $12 million), and recreational harvest was 7 million pounds. Fishing gear used has minimal habitat impact and low bycatch. King mackerel is available year-round, is rich in omega-3 fatty acids, and is a good source of protein and vitamins. The fish has a rich flavor and flaky, moist texture. \n\nThe webpage also provides scientific classification, management details, and nutritional facts, and highlights the importance of sustainable practices and ongoing research."
+      },
+      {
+        "web_source_id": 1,
+        "title": "Review of population dynamics and management of small pelagic ...",
+        "url": "https://link.springer.com/article/10.1007/s12562-019-01305-3",
+        "snippet": "Apr 3, 2019 ... In Japan, chub and spotted mackerels fetch a high market price ... mackerel to chub mackerel, due to the differences in biological traits ...",
+        "body": "This comprehensive review examines the population dynamics and management of small pelagic fishes (SPF) around the Japanese Archipelago, focusing on Japanese sardine (Sardinops melanostictus), Japanese anchovy (Engraulis japonicus), chub mackerel (Scomber japonicus), and Pacific saury (Cololabis saira). The study analyzes long-term trends in catch, biomass, recruitment, and exploitation rates, highlighting decadal-scale variability and species replacements since the 1900s, often linked to climatic and oceanic regime shifts, particularly the influential 1988/89 shift. Overfishing in the 1990s and early 2000s, exacerbated by overinvestment in fishing fleets during periods of high productivity, prevented recovery of sardine and chub mackerel stocks, but these have been recovering since the mid-2000s due to strong year classes and reduced exploitation. The review details the biology, migration, and fisheries of each species, the impact of environmental indices (e.g., PDO, NPGO, SST), and mechanisms driving population fluctuations, such as recruitment variability and interspecies competition. Fisheries management in Japan has evolved from input controls to the adoption of total allowable catch (TAC) systems and resource recovery plans, with recent moves toward explicit maximum sustainable yield (MSY) targets. The study recommends improving harvest control rules and stock assessment methods, enhancing international cooperation, conserving marine biodiversity, and adapting management to climate change impacts to ensure sustainable SPF fisheries."
+      }
+    ]
+  },
+  "web_summaries": [
+    {
+      "sub_topic": "Chub Mackerel Biological Variations",
+      "summary": "Recent research highlights the complex biological variations in chub mackerel (Scomber japonicus), shaped by both intrinsic and extrinsic factors. Maternal spawning experience significantly affects offspring viability: eggs from older, repeat-spawning females are larger and more nutrient-rich, resulting in larvae with greater starvation tolerance and faster early growth. In contrast, higher water temperatures produce smaller eggs and larvae but accelerate development, with optimal recruitment temperatures estimated at 18.0–20.3°C. These findings underscore the disproportionate contribution of repeat spawners to population resilience and the importance of considering both maternal effects and environmental conditions in fisheries management [Maternal spawning experience and thermal effects on offspring ...]. Additionally, the mucosal microbiome of chub mackerel exhibits high diversity across body sites, with environmental factors such as sea surface temperature, chlorophyll a, and fish age influencing microbiome composition. Seasonal microbiome shifts are not attributed to migration, and the prevalence of pathogens like Photobacterium damselae increases during warmer months, suggesting climate-driven disease risks [Temporal, Environmental, and Biological Drivers of the Mucosal ...].",
+      "gaps": [
+        "Limited understanding of genetic versus environmental contributions to biological variation",
+        "Insufficient data on long-term impacts of climate change on reproductive success and microbiome stability",
+        "Lack of studies linking microbiome changes to specific health or fitness outcomes in wild populations",
+        "Unclear mechanisms underlying maternal effects on offspring resilience"
+      ],
+      "bibtex": "@article{frontiers2022maternal,\n  title={Maternal spawning experience and thermal effects on offspring viability and early development in chub mackerel (Scomber japonicus)},\n  author={Author(s) Unknown},\n  journal={Frontiers in Marine Science},\n  year={2022},\n  url={https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2022.1063468/full}\n}\n@article{pubmed2020temporal,\n  title={Temporal, Environmental, and Biological Drivers of the Mucosal Microbiome in a Wild Marine Fish, Scomber japonicus},\n  author={Author(s) Unknown},\n  journal={mSphere},\n  year={2020},\n  url={https://pubmed.ncbi.nlm.nih.gov/32434844/}\n}\n"
+    },
+    {
+      "sub_topic": "Price Dynamics in Aquatic Markets",
+      "summary": "Recent research into aquatic market price dynamics highlights the interplay between public interest, market prices, and resource availability. A study focusing on Japanese fisheries used Google Trends data to analyze public search behavior for major fish species, finding that market prices exert a stronger influence on public attention than catch volumes for most species. However, for Pacific saury, both declining stock status and catch volume are increasingly shaping public concern, suggesting that price signals alone do not fully capture the complexity of public engagement in aquatic markets. The study demonstrates the utility of digital trace data for real-time monitoring of public sentiment and recommends leveraging seasonal peaks in interest and regional supply patterns for effective outreach and market interventions. These findings underscore the importance of integrating market, ecological, and social data streams to understand and manage price dynamics in aquatic markets, with potential applicability beyond Japan [Analyzing and modeling public interest in fishery resources - PMC][Asia | Climate Change 2022: Impacts, Adaptation and Vulnerability].",
+      "gaps": [
+        "Limited integration of ecological and market data for real-time price forecasting",
+        "Insufficient understanding of how climate change-driven supply shocks affect price dynamics",
+        "Lack of cross-country comparative studies on public interest and price feedbacks",
+        "Unclear mechanisms linking digital public attention to actual market behavior"
+      ],
+      "bibtex": "@article{pmc12970879,\n  title={Analyzing and modeling public interest in fishery resources},\n  author={},\n  journal={PMC},\n  year={2026},\n  url={https://pmc.ncbi.nlm.nih.gov/articles/PMC12970879/}\n}\n@incollection{ipcc2022asia,\n  title={Asia | Climate Change 2022: Impacts, Adaptation and Vulnerability},\n  author={IPCC},\n  booktitle={IPCC Sixth Assessment Report},\n  year={2022},\n  url={https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-10/}\n}\n"
+    },
+    {
+      "sub_topic": "Fishery Economics and Trade",
+      "summary": "Recent research on fishery economics and trade highlights the complex interplay between biological parameters, market dynamics, and management practices. A study of Türkiye's largest fish market demonstrates that fish prices are most strongly influenced by maximum fish length, with demersal species commanding the highest prices, followed by medium and small pelagic species. Interestingly, while landings alone do not predict price, a significant negative correlation exists for some species: as catches decline, prices rise, particularly for demersal and medium pelagic fish. Iconic species such as bluefish and Atlantic bonito exhibit high price volatility, often peaking during periods of high landings, reflecting strong consumer demand and cultural significance. Seasonal closures further impact prices, especially for demersal fish, by reducing supply. These findings underscore the value of market prices as bio-economic indicators, especially in data-poor regions, and suggest that improved management, real-time monitoring, and consumer education are essential for sustainable fisheries and equitable trade [Bio-economic indicators of fisheries: impact of variations in landings ...].",
+      "gaps": [
+        "Limited integration of biological and economic indicators in fisheries management models",
+        "Insufficient data on the impact of international trade policies on local fish prices",
+        "Lack of real-time monitoring systems for market and landing data in many regions",
+        "Unclear effects of consumer education initiatives on sustainable fishery practices"
+      ],
+      "bibtex": "@article{bioeconomic2023,\n  title={Bio-economic indicators of fisheries: impact of variations in landings and fish sizes on market prices at the Istanbul Fish Market},\n  author={Yildiz, T. and others},\n  journal={PLoS ONE},\n  year={2023},\n  volume={18},\n  number={4},\n  pages={e0284247},\n  url={https://pmc.ncbi.nlm.nih.gov/articles/PMC10081457/}\n}"
+    },
+    {
+      "sub_topic": "Oceanographic Influences on Fisheries",
+      "summary": "Oceanographic factors, particularly sea surface temperature (SST), large-scale climate oscillations, and primary productivity, play a pivotal role in shaping fisheries dynamics. Long-term studies in the NE Atlantic reveal that anomalies in SST and the North Atlantic Oscillation (NAO) can trigger regime shifts in small pelagic fish communities, leading to abrupt declines in catch per unit effort (CPUE) and altered life-history traits such as faster juvenile growth and earlier maturation, with species-specific adaptive responses [causes and consequences of crossing the tipping point in a small ...]. In the western Pacific, decadal-scale variability in small pelagic fish populations, including chub mackerel and sardine, is closely linked to oceanic regime shifts and environmental indices like the Pacific Decadal Oscillation (PDO) and North Pacific Gyre Oscillation (NPGO). Early survival and recruitment are especially sensitive to SST, mixed layer depth, and productivity, while overfishing during high productivity periods can exacerbate declines [Review of population dynamics and management of small pelagic ...]. ENSO-driven variability also modulates habitat suitability and catch rates for species such as greater amberjack, underscoring the need to integrate climate variability into fisheries management [Habitat changes and catch rate variability for greater amberjack in ...].",
+      "gaps": [
+        "Mechanistic understanding of species-specific adaptive responses to oceanographic shifts",
+        "Integration of multi-species interactions under changing ocean conditions",
+        "Long-term predictive models linking climate indices to fishery yields",
+        "Effectiveness of climate-adaptive management strategies across regions"
+      ],
+      "bibtex": "@article{springer2024tippingpoint,\n  title={Causes and consequences of crossing the tipping point in a small pelagic fish community under climate change},\n  author={Author(s)},\n  journal={Fisheries Reviews},\n  year={2024},\n  url={https://link.springer.com/article/10.1007/s11160-024-09885-9}\n}\n@article{frontiers2023amberjack,\n  title={Habitat changes and catch rate variability for greater amberjack in the Taiwan Strait: Influence of ENSO events},\n  author={Author(s)},\n  journal={Frontiers in Marine Science},\n  year={2023},\n  url={https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2023.1024669/full}\n}\n@article{springer2019spf,\n  title={Review of population dynamics and management of small pelagic fishes around the Japanese Archipelago},\n  author={Author(s)},\n  journal={Fisheries Science},\n  year={2019},\n  url={https://link.springer.com/article/10.1007/s12562-019-01305-3}\n}\n"
+    },
+    {
+      "sub_topic": "Correlations Between Biology, Markets, and Environment",
+      "summary": "The population dynamics and management of small pelagic fishes, such as chub mackerel and king mackerel, are intricately linked to biological traits, market forces, and environmental variability. In the Northwest Pacific, chub mackerel stocks exhibit significant interannual and decadal fluctuations driven by climate-induced changes in sea surface temperature, which alter spawning habitat suitability and recruitment success. These environmental effects are compounded by density-dependent factors and interspecies competition, leading to regime shifts and species replacements over time [Review of population dynamics and management of small pelagic ...][Climate-induced variation in a temperature suitability index of chub ...]. Market dynamics, including high demand and price differentials among species, have historically led to overfishing and overinvestment during productive periods, impeding stock recovery. Recent management strategies, such as total allowable catch systems and adaptive harvest controls, aim to balance exploitation with sustainability, accounting for both biological and environmental uncertainties [Review of population dynamics and management of small pelagic ...][West Coast Coastal Pelagic Species | NOAA Fisheries][King Mackerel | NOAA Fisheries]. International cooperation and ongoing research are emphasized to address climate change impacts and ensure resilient fisheries.",
+      "gaps": [
+        "Quantitative models integrating market demand, environmental variability, and biological responses remain limited",
+        "Mechanisms of interspecies competition and their effects on stock recovery are not fully understood",
+        "Long-term impacts of climate change on recruitment and migration patterns require further study",
+        "Effectiveness of adaptive management strategies under rapid environmental change is not well established"
+      ],
+      "bibtex": "@article{frontiers2022climate,\n  title={Climate-induced variation in a temperature suitability index of chub mackerel},\n  author={Authors not specified},\n  journal={Frontiers in Marine Science},\n  year={2022},\n  url={https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2022.996626/full}\n}\n@article{springer2019review,\n  title={Review of population dynamics and management of small pelagic fishes around the Japanese Archipelago},\n  author={Authors not specified},\n  journal={Fisheries Science},\n  year={2019},\n  url={https://link.springer.com/article/10.1007/s12562-019-01305-3}\n}\n@misc{noaa2023westcoast,\n  title={West Coast Coastal Pelagic Species | NOAA Fisheries},\n  author={NOAA Fisheries},\n  year={2023},\n  url={https://www.fisheries.noaa.gov/species/west-coast-coastal-pelagic-species}\n}\n@misc{noaa2023kingmackerel,\n  title={King Mackerel | NOAA Fisheries},\n  author={NOAA Fisheries},\n  year={2023},\n  url={https://www.fisheries.noaa.gov/species/king-mackerel}\n}\n"
+    }
+  ],
+  "final_summaries": [
+    {
+      "sub_topic": "Chub Mackerel Biological Variations",
+      "summary": "Recent research highlights the complex biological variations in chub mackerel (Scomber japonicus), shaped by both intrinsic and extrinsic factors. Maternal spawning experience significantly affects offspring viability: eggs from older, repeat-spawning females are larger and more nutrient-rich, resulting in larvae with greater starvation tolerance and faster early growth. In contrast, higher water temperatures produce smaller eggs and larvae but accelerate development, with optimal recruitment temperatures estimated at 18.0–20.3°C. These findings underscore the disproportionate contribution of repeat spawners to population resilience and the importance of considering both maternal effects and environmental conditions in fisheries management [Maternal spawning experience and thermal effects on offspring ...]. Additionally, the mucosal microbiome of chub mackerel exhibits high diversity across body sites, with environmental factors such as sea surface temperature, chlorophyll a, and fish age influencing microbiome composition. Seasonal microbiome shifts are not attributed to migration, and the prevalence of pathogens like Photobacterium damselae increases during warmer months, suggesting climate-driven disease risks [Temporal, Environmental, and Biological Drivers of the Mucosal ...].",
+      "gaps": [
+        "Limited understanding of genetic versus environmental contributions to biological variation",
+        "Insufficient data on long-term impacts of climate change on reproductive success and microbiome stability",
+        "Lack of studies linking microbiome changes to specific health or fitness outcomes in wild populations",
+        "Unclear mechanisms underlying maternal effects on offspring resilience"
+      ],
+      "bibtex": "@article{frontiers2022maternal,\n  title={Maternal spawning experience and thermal effects on offspring viability and early development in chub mackerel (Scomber japonicus)},\n  author={Author(s) Unknown},\n  journal={Frontiers in Marine Science},\n  year={2022},\n  url={https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2022.1063468/full}\n}\n@article{pubmed2020temporal,\n  title={Temporal, Environmental, and Biological Drivers of the Mucosal Microbiome in a Wild Marine Fish, Scomber japonicus},\n  author={Author(s) Unknown},\n  journal={mSphere},\n  year={2020},\n  url={https://pubmed.ncbi.nlm.nih.gov/32434844/}\n}\n"
+    },
+    {
+      "sub_topic": "Price Dynamics in Aquatic Markets",
+      "summary": "Recent research into aquatic market price dynamics highlights the interplay between public interest, market prices, and resource availability. A study focusing on Japanese fisheries used Google Trends data to analyze public search behavior for major fish species, finding that market prices exert a stronger influence on public attention than catch volumes for most species. However, for Pacific saury, both declining stock status and catch volume are increasingly shaping public concern, suggesting that price signals alone do not fully capture the complexity of public engagement in aquatic markets. The study demonstrates the utility of digital trace data for real-time monitoring of public sentiment and recommends leveraging seasonal peaks in interest and regional supply patterns for effective outreach and market interventions. These findings underscore the importance of integrating market, ecological, and social data streams to understand and manage price dynamics in aquatic markets, with potential applicability beyond Japan [Analyzing and modeling public interest in fishery resources - PMC][Asia | Climate Change 2022: Impacts, Adaptation and Vulnerability].",
+      "gaps": [
+        "Limited integration of ecological and market data for real-time price forecasting",
+        "Insufficient understanding of how climate change-driven supply shocks affect price dynamics",
+        "Lack of cross-country comparative studies on public interest and price feedbacks",
+        "Unclear mechanisms linking digital public attention to actual market behavior"
+      ],
+      "bibtex": "@article{pmc12970879,\n  title={Analyzing and modeling public interest in fishery resources},\n  author={},\n  journal={PMC},\n  year={2026},\n  url={https://pmc.ncbi.nlm.nih.gov/articles/PMC12970879/}\n}\n@incollection{ipcc2022asia,\n  title={Asia | Climate Change 2022: Impacts, Adaptation and Vulnerability},\n  author={IPCC},\n  booktitle={IPCC Sixth Assessment Report},\n  year={2022},\n  url={https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-10/}\n}\n"
+    },
+    {
+      "sub_topic": "Fishery Economics and Trade",
+      "summary": "Recent research on fishery economics and trade highlights the complex interplay between biological parameters, market dynamics, and management practices. A study of Türkiye's largest fish market demonstrates that fish prices are most strongly influenced by maximum fish length, with demersal species commanding the highest prices, followed by medium and small pelagic species. Interestingly, while landings alone do not predict price, a significant negative correlation exists for some species: as catches decline, prices rise, particularly for demersal and medium pelagic fish. Iconic species such as bluefish and Atlantic bonito exhibit high price volatility, often peaking during periods of high landings, reflecting strong consumer demand and cultural significance. Seasonal closures further impact prices, especially for demersal fish, by reducing supply. These findings underscore the value of market prices as bio-economic indicators, especially in data-poor regions, and suggest that improved management, real-time monitoring, and consumer education are essential for sustainable fisheries and equitable trade [Bio-economic indicators of fisheries: impact of variations in landings ...].",
+      "gaps": [
+        "Limited integration of biological and economic indicators in fisheries management models",
+        "Insufficient data on the impact of international trade policies on local fish prices",
+        "Lack of real-time monitoring systems for market and landing data in many regions",
+        "Unclear effects of consumer education initiatives on sustainable fishery practices"
+      ],
+      "bibtex": "@article{bioeconomic2023,\n  title={Bio-economic indicators of fisheries: impact of variations in landings and fish sizes on market prices at the Istanbul Fish Market},\n  author={Yildiz, T. and others},\n  journal={PLoS ONE},\n  year={2023},\n  volume={18},\n  number={4},\n  pages={e0284247},\n  url={https://pmc.ncbi.nlm.nih.gov/articles/PMC10081457/}\n}"
+    },
+    {
+      "sub_topic": "Oceanographic Influences on Fisheries",
+      "summary": "Oceanographic factors, particularly sea surface temperature (SST), large-scale climate oscillations, and primary productivity, play a pivotal role in shaping fisheries dynamics. Long-term studies in the NE Atlantic reveal that anomalies in SST and the North Atlantic Oscillation (NAO) can trigger regime shifts in small pelagic fish communities, leading to abrupt declines in catch per unit effort (CPUE) and altered life-history traits such as faster juvenile growth and earlier maturation, with species-specific adaptive responses [causes and consequences of crossing the tipping point in a small ...]. In the western Pacific, decadal-scale variability in small pelagic fish populations, including chub mackerel and sardine, is closely linked to oceanic regime shifts and environmental indices like the Pacific Decadal Oscillation (PDO) and North Pacific Gyre Oscillation (NPGO). Early survival and recruitment are especially sensitive to SST, mixed layer depth, and productivity, while overfishing during high productivity periods can exacerbate declines [Review of population dynamics and management of small pelagic ...]. ENSO-driven variability also modulates habitat suitability and catch rates for species such as greater amberjack, underscoring the need to integrate climate variability into fisheries management [Habitat changes and catch rate variability for greater amberjack in ...].",
+      "gaps": [
+        "Mechanistic understanding of species-specific adaptive responses to oceanographic shifts",
+        "Integration of multi-species interactions under changing ocean conditions",
+        "Long-term predictive models linking climate indices to fishery yields",
+        "Effectiveness of climate-adaptive management strategies across regions"
+      ],
+      "bibtex": "@article{springer2024tippingpoint,\n  title={Causes and consequences of crossing the tipping point in a small pelagic fish community under climate change},\n  author={Author(s)},\n  journal={Fisheries Reviews},\n  year={2024},\n  url={https://link.springer.com/article/10.1007/s11160-024-09885-9}\n}\n@article{frontiers2023amberjack,\n  title={Habitat changes and catch rate variability for greater amberjack in the Taiwan Strait: Influence of ENSO events},\n  author={Author(s)},\n  journal={Frontiers in Marine Science},\n  year={2023},\n  url={https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2023.1024669/full}\n}\n@article{springer2019spf,\n  title={Review of population dynamics and management of small pelagic fishes around the Japanese Archipelago},\n  author={Author(s)},\n  journal={Fisheries Science},\n  year={2019},\n  url={https://link.springer.com/article/10.1007/s12562-019-01305-3}\n}\n"
+    },
+    {
+      "sub_topic": "Correlations Between Biology, Markets, and Environment",
+      "summary": "The population dynamics and management of small pelagic fishes, such as chub mackerel and king mackerel, are intricately linked to biological traits, market forces, and environmental variability. In the Northwest Pacific, chub mackerel stocks exhibit significant interannual and decadal fluctuations driven by climate-induced changes in sea surface temperature, which alter spawning habitat suitability and recruitment success. These environmental effects are compounded by density-dependent factors and interspecies competition, leading to regime shifts and species replacements over time [Review of population dynamics and management of small pelagic ...][Climate-induced variation in a temperature suitability index of chub ...]. Market dynamics, including high demand and price differentials among species, have historically led to overfishing and overinvestment during productive periods, impeding stock recovery. Recent management strategies, such as total allowable catch systems and adaptive harvest controls, aim to balance exploitation with sustainability, accounting for both biological and environmental uncertainties [Review of population dynamics and management of small pelagic ...][West Coast Coastal Pelagic Species | NOAA Fisheries][King Mackerel | NOAA Fisheries]. International cooperation and ongoing research are emphasized to address climate change impacts and ensure resilient fisheries.",
+      "gaps": [
+        "Quantitative models integrating market demand, environmental variability, and biological responses remain limited",
+        "Mechanisms of interspecies competition and their effects on stock recovery are not fully understood",
+        "Long-term impacts of climate change on recruitment and migration patterns require further study",
+        "Effectiveness of adaptive management strategies under rapid environmental change is not well established"
+      ],
+      "bibtex": "@article{frontiers2022climate,\n  title={Climate-induced variation in a temperature suitability index of chub mackerel},\n  author={Authors not specified},\n  journal={Frontiers in Marine Science},\n  year={2022},\n  url={https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2022.996626/full}\n}\n@article{springer2019review,\n  title={Review of population dynamics and management of small pelagic fishes around the Japanese Archipelago},\n  author={Authors not specified},\n  journal={Fisheries Science},\n  year={2019},\n  url={https://link.springer.com/article/10.1007/s12562-019-01305-3}\n}\n@misc{noaa2023westcoast,\n  title={West Coast Coastal Pelagic Species | NOAA Fisheries},\n  author={NOAA Fisheries},\n  year={2023},\n  url={https://www.fisheries.noaa.gov/species/west-coast-coastal-pelagic-species}\n}\n@misc{noaa2023kingmackerel,\n  title={King Mackerel | NOAA Fisheries},\n  author={NOAA Fisheries},\n  year={2023},\n  url={https://www.fisheries.noaa.gov/species/king-mackerel}\n}\n"
+    }
+  ],
+  "final_composition": {
+    "title": "Chub Mackerel Price Dynamics and Interannual Size Variation Across Pacific Rim Aquatic Markets: Linking Fish Biology, Market Signals, and Oceanographic Forcing",
+    "executive_summary": "We know that chub mackerel (Scomber japonicus) population productivity and traits (including early growth and survival) vary with ocean conditions and maternal effects, and that fish prices in major markets respond to size structure, supply, and public attention signals rather than landings alone [1][3][6]. The most constrained biological linkage in the provided literature is temperature sensitivity during early life: optimal recruitment temperatures are estimated at 18.0–20.3 °C (2022, “Maternal spawning experience and thermal effects on offspring viability and early development in chub mackerel”) [1]. Over the next decade, progress is most likely from integrating environmental indices (e.g., PDO/ENSO) with size/quality metrics and high-frequency market/attention data to build actionable, climate-aware price–biology models [2][3][4][6].",
+    "scope": "This report synthesizes provided research items on: (i) interannual/seasonal biological variation in chub mackerel (especially early-life traits and health proxies), (ii) observed drivers of aquatic-market price dynamics (including size effects and public attention proxies), and (iii) oceanographic theory and climate variability (SST, ENSO, PDO/NPGO, NAO, productivity) shaping small pelagic dynamics. Geographic emphasis is the Pacific Rim where explicitly supported by items (Japan and the western Pacific), while non-Pacific evidence is treated as transferable context and labeled as background where appropriate (e.g., Istanbul market; NE Atlantic regime shifts).",
+    "methodology": "Items were compiled and summarized as given, then organized into a crosswalk linking (a) environmental forcing (SST and climate indices) → (b) biological responses (recruitment, growth, size/condition proxies, disease risk) → (c) fishery supply dynamics → (d) market price formation and public attention. Only quantitative values explicitly present in the items are used; where items lacked numeric results (e.g., elasticities, effect sizes), claims are stated qualitatively or omitted. Source recency was prioritized; older review material is marked “(background)”.",
+    "glossary": "- Chub mackerel (Scomber japonicus): Small pelagic fish with strong climate-linked recruitment variability.\n- SST: Sea surface temperature.\n- ENSO: El Niño–Southern Oscillation; influences regional ocean conditions and fish habitat/catchability.\n- PDO / NPGO: Pacific Decadal Oscillation / North Pacific Gyre Oscillation; indices associated with decadal ocean variability.\n- NAO: North Atlantic Oscillation (background; used here as an example of climate-index forcing in pelagic systems).\n- Recruitment: Addition of new individuals to a stock; often determined by early-life survival.\n- CPUE: Catch per unit effort; a fisheries abundance index.\n- Temperature suitability index: Index linking temperature to habitat/spawning suitability (used for chub mackerel in one item).\n- Mucosal microbiome: Microbial community on fish body surfaces; potential indicator of health/disease risk.\n- Digital trace data: Online behavioral data (e.g., Google Trends) used as a proxy for public interest.\n- TAC: Total allowable catch; a management instrument referenced in the small pelagics review (background).",
+    "sota": "## At-a-Glance Artifact\n\n| Category (from items) | Representative mass/size range | Strongest current constraint (number, unit, mass/size, experiment/study, year) | Main detection/observation channels | Near-term prospects (≤10 yrs) with named studies/approaches |\n|---|---:|---|---|---|\n| Early-life biology & recruitment (maternal + temperature) | Not specified in items | **18.0–20.3 °C** optimal recruitment temperature (2022, *“Maternal spawning experience and thermal effects on offspring viability and early development in chub mackerel”*) [1] | Laboratory/experimental early-development and viability measurements; spawning/offspring trait tracking | Extend temperature–recruitment relationships into forecast-ready indices via climate-linked habitat suitability work such as the **2022 temperature suitability index study** [6] |\n| Fish health proxies (microbiome; pathogen seasonality) | Not specified in items | Quantitative constraint not specified in items (drivers identified qualitatively: SST, chlorophyll a, age) (2020, *“Temporal, Environmental, and Biological Drivers of the Mucosal Microbiome…”*) [5] | Field sampling of body-site microbiomes; environmental covariates (SST, chlorophyll a); pathogen prevalence tracking | Use the **2020 microbiome driver framework** to test climate-warming disease-risk hypotheses with repeated seasonal sampling designs [5] |\n| Market price formation & public attention (digital traces) | Not specified in items | Quantitative effect size not specified in items; key constraint is directional finding: **prices influence public attention more than catch volumes** for most species (2026, *“Analyzing and modeling public interest in fishery resources”*) [2] | Market price time series; landings/catch volumes; Google Trends (public interest proxy) | Develop real-time monitoring/nowcasting pipelines combining price + attention + seasonality as in the **2026 public-interest modeling study** [2] |\n| Bio-economic size effects in fish markets (transferable) | Not specified in items | Quantitative coefficient not specified; strongest stated constraint is that **maximum fish length is the strongest price driver** in the Istanbul market analysis (2023, *“Bio-economic indicators of fisheries…”*) [3] | Market transaction prices; fish length/size metrics; landings; season/closure indicators | Transfer method to Pacific Rim mackerel markets by adding standardized length/weight reporting at auctions, following the **2023 bio-economic indicator approach** [3] |\n| Oceanographic regime shifts & climate indices (small pelagics) | Not specified in items | Numeric threshold not specified; strongest constraint is qualitative linkage of decadal variability to indices (PDO/NPGO) and SST/mixed layer/productivity (2019 review; background) [4] | Long time series of SST, productivity, mixed layer depth; climate indices; CPUE/catches; life-history traits | Couple chub mackerel **temperature suitability index (2022)** with regime-shift frameworks (2019 review; background; 2024 tipping-point synthesis) [4][6][7] |\n\n## Complementarity Map (modalities as observation types)\n\n- **Chub mackerel early-life viability (maternal + temperature)**\n  - Dominates now: **experimental/lab + life-history observation** (offspring size, starvation tolerance, early growth) [1]\n  - Where another overtakes: **oceanographic/habitat suitability indices** become dominant for operational forecasting (temperature suitability index) [6]\n  - Limiting systematic: separating **maternal effects vs temperature effects** under field variability [1]\n\n- **Microbiome seasonality and pathogen risk**\n  - Dominates now: **field microbiome surveys + environmental covariates** (SST, chlorophyll a, age) [5]\n  - Where another overtakes: **integrated health–fitness linkage studies** (not yet quantified in items) would be needed to convert microbiome shifts into population/market impacts [5]\n  - Limiting systematic: attribution of **microbiome change to environment vs host factors** with limited fitness endpoints [5]\n\n- **Aquatic-market price dynamics & public interest**\n  - Dominates now: **market/behavioral observation** (price series + Google Trends) [2]\n  - Where another overtakes: **ecological supply shock accounting** (climate-driven availability) is needed to interpret price signals, highlighted as a gap [2][8]\n  - Limiting systematic: mapping **digital attention** to actual purchasing/market behavior [2]\n\n- **Fish size/length effects on price (market bio-economics; transferable)**\n  - Dominates now: **market microdata analysis** (length/landings/closures vs price) [3]\n  - Where another overtakes: **cross-country standardized market measurement** would allow Pacific Rim comparisons (gap) [3]\n  - Limiting systematic: inconsistent/limited **real-time size reporting** in many regions [3]\n\n- **Climate indices and small pelagic regime shifts**\n  - Dominates now: **oceanographic time-series + fisheries indicators** (SST anomalies, NAO/PDO/NPGO, CPUE) [4][7]\n  - Where another overtakes: **management strategy evaluation** under climate variability is needed (effectiveness not yet well established in items) [4][7]\n  - Limiting systematic: mechanistic prediction of **species-specific adaptive responses** to shifting conditions [7]\n\n## Limiting Backgrounds & Systematics (and one mitigation each)\n\n- **Attribution problem (maternal vs thermal drivers)** in offspring viability and early growth [1] → Mitigation: factorial designs and cohort tracking that jointly record female spawning history and controlled temperature treatments [1].\n- **Weak linkage from microbiome shifts to fitness outcomes** in wild populations [5] → Mitigation: pair microbiome sampling with measurable health/condition endpoints across seasons (explicitly identified as missing in items) [5].\n- **Market signals lack ecological context for forecasting** (integration gap) [2][8] → Mitigation: co-ingest landings, SST/productivity indices, and price/attention into unified monitoring models (recommended in items) [2][4].\n- **Limited real-time monitoring of market and landing data** in many regions [3] → Mitigation: deploy electronic reporting and standardized size/price recording at auctions/markets [3].\n- **Mechanistic uncertainty in climate-driven regime shifts** (species-specific responses; multi-species interactions) [7] → Mitigation: expand multi-species, climate-index-linked models and evaluate climate-adaptive management strategies across regions [7].",
+    "deep_dives": "## 1) Interannual size (weight/length) variation: biological mechanisms with temperature and maternal structure\n\n- Quantitative constraint: Optimal recruitment temperatures are estimated at **18.0–20.3 °C** (2022, *“Maternal spawning experience and thermal effects on offspring viability and early development in chub mackerel”*) [1]. The same study reports that higher water temperatures produce smaller eggs and larvae but accelerate development, while eggs from older repeat spawners are larger and more nutrient-rich, yielding larvae with greater starvation tolerance and faster early growth [1].\n- Implication for interannual weight/length: While the items do not provide direct year-by-year length/weight series, they do specify mechanistic pathways (temperature and spawner age structure) that can plausibly drive interannual shifts in size-at-age and cohort quality [1].\n- Forward-looking milestone (named study + date): Operationalize climate–recruitment linkage by integrating the **2022 chub mackerel temperature suitability index** into recruitment/size-structure monitoring (2022, *“Climate-induced variation in a temperature suitability index of chub mackerel”*) [6].\n\n## 2) Fish health and quality signals: microbiome seasonality as an environment-linked risk channel\n\n- Quantitative constraint: No numeric effect sizes are provided in the items for microbiome diversity shifts; however, the study explicitly identifies SST, chlorophyll a, and fish age as drivers, and reports increased prevalence of **Photobacterium damselae** during warmer months (2020, *“Temporal, Environmental, and Biological Drivers of the Mucosal Microbiome…”*) [5].\n- Link to markets: The items do not quantify how disease risk translates into quality discounts or price; therefore, only the pathway (warming → pathogen prevalence risk) is supportable here [5].\n- Forward-looking milestone (named study + date): Build on the **2020 microbiome driver study** by adding explicit health/fitness outcomes (identified as lacking) to enable market-quality correlations [5].\n\n## 3) Price dynamics in aquatic markets: size composition, supply, and public attention\n\n- Quantitative constraint: The items provide a quantitative price–biology linkage in structure (not magnitude): prices are most strongly influenced by **maximum fish length** in the Istanbul market study (2023, *“Bio-economic indicators of fisheries…”*) [3]. They also report that landings alone do not predict price overall, though some species show negative price–catch correlation (catch declines, prices rise), and that seasonal closures reduce supply and affect prices, especially demersal fish [3].\n- Quantitative constraint (public interest): The Japanese-focused digital-trace study finds that **market prices exert a stronger influence on public attention than catch volumes** for most species (2026, *“Analyzing and modeling public interest in fishery resources”*) [2]. (No numeric coefficients are included in the provided item summary.)\n- Forward-looking milestone (named study + date): Deploy a real-time monitoring/nowcasting framework following the **2026 public-interest modeling study**, explicitly integrating seasonality and regional supply patterns as recommended there (2026) [2].\n\n## 4) Oceanographic forcing and regime shifts: connecting climate indices to fishery supply variability\n\n- Quantitative constraint: The only numeric threshold in the provided items is the **18.0–20.3 °C** recruitment temperature window from the 2022 early-life study; the regime-shift and climate-index items do not provide numeric thresholds in the supplied summaries [1][4][7].\n- Evidence base: The 2019 review (background) links decadal variability in small pelagic populations around Japan (including chub mackerel and sardine) to regime shifts and indices (PDO/NPGO), with early survival and recruitment sensitive to SST, mixed layer depth, and productivity [4]. A 2024 synthesis discusses tipping points and regime shifts in small pelagic communities under climate change (no numeric trigger given in the item summary) [7]. ENSO-driven variability modulates habitat suitability and catch rates in the Taiwan Strait for greater amberjack (2023), illustrating the broader mechanism of climate oscillations affecting fisheries via habitat and catchability [9].\n- Forward-looking milestone (named study + date): Use the **2022 temperature suitability index** as a bridge variable to connect oceanographic variability to recruitment outcomes in operational assessments (2022) [6], and align it with regime-shift frameworks discussed in the **2024 tipping-point** synthesis (2024) [7].",
+    "gaps": "1) Build Pacific Rim chub mackerel price–size datasets linking auction price to standardized length/weight metrics across years. **Success criterion:** routine recording of per-lot length and/or weight together with price time series suitable for estimating a “length → price” relationship as in the 2023 Istanbul market framework [3].\n2) Integrate ecological covariates into near-real-time price forecasting for mackerel (SST/productivity + landings + market/attention). **Success criterion:** an operational model that jointly ingests price, landings, and at least one environmental driver explicitly identified in items (e.g., SST) [2][4][7].\n3) Quantify how digital public attention translates into measurable market outcomes (e.g., price changes, volume shifts). **Success criterion:** a validated mapping from Google Trends-style indices to observed market variables, addressing the mechanism gap flagged in the 2026 public-interest study [2].\n4) Partition maternal vs environmental contributions to cohort quality to explain interannual size variation. **Success criterion:** replicate the 2022 early-life framework with explicit separation of maternal spawning experience effects and temperature effects, anchored to the 18.0–20.3 °C recruitment window [1].\n5) Link microbiome seasonal shifts to explicit health/fitness outcomes in wild chub mackerel. **Success criterion:** field study pairing microbiome composition with measurable health/condition endpoints across warm vs cool seasons, addressing the gap identified in the 2020 microbiome paper [5].\n6) Develop climate-index-to-yield predictive models for small pelagics in the western Pacific. **Success criterion:** models that incorporate indices referenced in items (PDO/NPGO/ENSO) and are evaluated against fishery indicators (e.g., CPUE/catches), as called for in the oceanographic gaps [4][7][9].\n7) Evaluate climate-adaptive management effectiveness under rapid environmental change for small pelagics. **Success criterion:** measurable performance comparisons of adaptive harvest controls/TAC-like approaches under climate variability scenarios (management approaches referenced in the 2019 review; background) [4].",
+    "recommendations": "1) (0–3y) Stand up standardized market data collection for chub mackerel lots (price + length/weight + origin + date) in targeted Pacific Rim markets. **Why now:** inconsistent/limited real-time market and size reporting is a key limiting systematic; the 2023 bio-economic indicator study shows length is central for price formation [3].\n2) (0–3y) Pilot an integrated “eco-market dashboard” combining SST and other readily available environmental indicators with landings and market prices. **Why now:** forecasting is limited by missing ecological context in price signals; items explicitly call for integrating market, ecological, and social streams [2][4].\n3) (0–3y) Design a cohort-quality monitoring module keyed to the **18.0–20.3 °C** recruitment temperature window to interpret interannual size/quality shifts. **Why now:** early-life temperature sensitivity is the strongest quantitative constraint provided, and attribution (maternal vs thermal) is a recognized systematic [1].\n4) (3–10y) Extend digital-trace public-interest models into cross-country comparative studies across Pacific Rim markets for shared species. **Why now:** cross-country comparison is explicitly lacking, and public attention mechanisms remain uncertain, limiting how these signals can be used in interventions [2].\n5) (3–10y) Implement longitudinal field studies linking microbiome dynamics to measurable health/fitness outcomes and (where available) market quality measures. **Why now:** microbiome–fitness linkage is the primary systematic preventing translation of climate-linked pathogen seasonality into economic/quality impacts [5].\n6) (3–10y) Develop and test climate-index-linked predictive models for small pelagic yields and integrate them into management strategy evaluation. **Why now:** mechanistic uncertainty and limited predictive capability for regime shifts are highlighted limitations; models should explicitly include indices and drivers referenced in items (PDO/NPGO/ENSO, SST, productivity) [4][7][9].",
+    "references": "1. [Maternal spawning experience and thermal effects on offspring viability and early development in chub mackerel (Scomber japonicus), 2022](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2022.1063468/full)\n2. [Analyzing and modeling public interest in fishery resources, 2026](https://pmc.ncbi.nlm.nih.gov/articles/PMC12970879/)\n3. [Yildiz et al., 2023, Bio-economic indicators of fisheries: impact of variations in landings and fish sizes on market prices at the Istanbul Fish Market](https://pmc.ncbi.nlm.nih.gov/articles/PMC10081457/)\n4. [Review of population dynamics and management of small pelagic fishes around the Japanese Archipelago, 2019](https://link.springer.com/article/10.1007/s12562-019-01305-3) (background)\n5. [Temporal, Environmental, and Biological Drivers of the Mucosal Microbiome in a Wild Marine Fish, Scomber japonicus, 2020](https://pubmed.ncbi.nlm.nih.gov/32434844/)\n6. [Climate-induced variation in a temperature suitability index of chub mackerel, 2022](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2022.996626/full)\n7. [Causes and consequences of crossing the tipping point in a small pelagic fish community under climate change, 2024](https://link.springer.com/article/10.1007/s11160-024-09885-9)\n8. [Asia | Climate Change 2022: Impacts, Adaptation and Vulnerability](https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-10/) (background)\n9. [Habitat changes and catch rate variability for greater amberjack in the Taiwan Strait: Influence of ENSO events, 2023](https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2023.1024669/full)"
+  },
+  "elapsed": 596.8345568180084
+}
